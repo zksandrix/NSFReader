@@ -7,7 +7,7 @@ NSFReader - Простое, лёгкое приложение созаднное
 ****На данный момент приложение не лицензируется!***
 
 ## Installation
-* Открыть базу NSFReader.ntf.
+* Открыть базу NSFReader.ntf (ODS 55).
 * Нажать кнопку "Install NSFReader".
 * Перезапустить клиент HCL Notes.
 
