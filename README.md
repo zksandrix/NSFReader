@@ -12,9 +12,11 @@ The application is in active development, but already has the basic features nee
 After that, a new “NSFReader” panel will appear. There are only 2 buttons in this panel:
 1. To open a single document.
 2. To open all selected documents.
+
 <br />
 <br />
 <br />
+
 # NSFReader (ru)
 Новая альтернатива ScanEZ (Ytria) для HCL Notes. ****Работает только с клиентами HCL Notes x64.***\
 \
