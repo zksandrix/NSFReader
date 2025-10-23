@@ -8,7 +8,9 @@ The application is in active development, but already has the basic features nee
 ## Installation
 * Create the NSFReader.nsf database from the NSFReader.ntf template (ODS 55).
 * Open the created NSFReader.nsf database and click the “Install NSFReader” button (lower left corner).
+* In the security settings, set the flag: "Don't prompt for a password form other Notes-based progrrams"
 * Restart the HCL Notes client.
+
 After that, a new “NSFReader” panel will appear. There are only 2 buttons in this panel:
 1. To open a single document.
 2. To open all selected documents.
@@ -28,6 +30,7 @@ NSFReader - Простое, лёгкое приложение созданное
 ## Installation
 * Создайте базу NSFReader.nsf из шаблона NSFReader.ntf (ODS 55).
 * Откройте созданную базу NSFReader.nsf и нажмите кнопку "Install NSFReader" (левый нижний угол).
+* В настройках безопасановти установите флаг: "Don't prompt for a password form other Notes-based progrrams"
 * Перезапустить клиент HCL Notes.
 
 После этого, появится новая панель "NSFReader". В этой панели всего 2 кнопки:
