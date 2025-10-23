@@ -3,7 +3,7 @@ A new alternative to ScanEZ (Ytria) for HCL Notes. ****Works only with HCL Notes
 \
 ScanEZ is a heavyweight solution with licensing. Without a license, only document reading is available.\
 NSFReader is a simple, lightweight application created by an administrator for administrators. The main concept is convenience and speed!\
-The application is in active development, but already has the basic features needed by administrators.
+The application is in active development, but already has the basic features needed by administrators.\
 ****Currently, the application is not licensed and is freely available!***
 ## Installation
 * Create the NSFReader.nsf database from the NSFReader.ntf template (ODS 55).
