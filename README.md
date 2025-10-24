@@ -18,7 +18,6 @@ After that, a new “NSFReader” panel will appear. There are only 2 buttons in
 <br />
 <br />
 <br />
-<br />
 
 # NSFReader (ru)
 Новая альтернатива ScanEZ (Ytria) для HCL Notes. ****Работает только с клиентами HCL Notes x64.***\
