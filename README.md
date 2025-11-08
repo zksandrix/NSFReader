@@ -15,6 +15,9 @@ After that, a new “NSFReader” panel will appear. There are only 2 buttons in
 1. To open a single document.
 2. To open all selected documents.
 
+Contact information:\
+&nbsp;&nbsp;&nbsp;&nbsp;zksandrix@gmail.com\
+&nbsp;&nbsp;&nbsp;&nbsp;zmaster@inzone.pro
 <br />
 <br />
 <br />
@@ -36,3 +39,7 @@ NSFReader - Простое, лёгкое приложение созданное
 После этого, появится новая панель "NSFReader". В этой панели всего 2 кнопки:
 1. Для открытия одного документа.
 2. Для открытия всех выделенных документов.
+
+Контактная информация:\
+&nbsp;&nbsp;&nbsp;&nbsp;zksandrix@gmail.com\
+&nbsp;&nbsp;&nbsp;&nbsp;zmaster@inzone.pro
