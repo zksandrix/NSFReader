@@ -1,5 +1,5 @@
 # NSFReader (en)
-A new alternative to ScanEZ (Ytria) for HCL Notes. ****Works only with HCL Notes x64 clients.***\
+A new alternative to ScanEZ (Ytria) for HCL Notes. ****Works only with HCL Notes x64.***\
 \
 ScanEZ is a heavyweight solution with licensing. Without a license, only document reading is available.\
 NSFReader is a simple, lightweight application created by an administrator for administrators. The main concept is convenience and speed!\
@@ -23,7 +23,7 @@ Contact information:\
 <br />
 
 # NSFReader (ru)
-Новая альтернатива ScanEZ (Ytria) для HCL Notes. ****Работает только с клиентами HCL Notes x64.***\
+Новая альтернатива ScanEZ (Ytria) для HCL Notes. ****Работает только с HCL Notes x64.***\
 \
 ScanEZ - тяжеловесное решение с лицензированием. Без лицензии доступно только чтение документов.\
 NSFReader - Простое, лёгкое приложение созданное администратором для администраторов. Основная концепция - удобство и скорость!\
