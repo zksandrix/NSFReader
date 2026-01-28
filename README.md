@@ -1,6 +1,5 @@
 <h1>NSFReader</h1>
 
-# NSFReader (en)
 A new alternative to ScanEZ (Ytria) for HCL Notes. ****Works only with HCL Notes x64.***\
 \
 ScanEZ is a heavyweight solution with licensing. Without a license, only document reading is available.\
@@ -23,25 +22,3 @@ Contact information:\
 <br />
 <br />
 <br />
-
-# NSFReader (ru)
-Новая альтернатива ScanEZ (Ytria) для HCL Notes. ****Работает только с HCL Notes x64.***\
-\
-ScanEZ - тяжеловесное решение с лицензированием. Без лицензии доступно только чтение документов.\
-NSFReader - Простое, лёгкое приложение созданное администратором для администраторов. Основная концепция - удобство и скорость!\
-Приложение находится на активной стадии разработки, но уже умеет базовые вещи необходимые администраторам.\
-****На данный момент приложение не лицензируется и находится в свободном доступе!***
-
-## Installation 
-* Создайте базу NSFReader.nsf из шаблона NSFReader.ntf (ODS 55).
-* Откройте созданную базу NSFReader.nsf и нажмите кнопку "Install NSFReader" (левый нижний угол).
-* В настройках безопасаности установите флаг: "Don't prompt for a password form other Notes-based programs".
-* Перезапустить клиент HCL Notes.
-
-После этого, появится новая панель "NSFReader". В этой панели всего 2 кнопки:
-1. Для открытия одного документа.
-2. Для открытия всех выделенных документов.
-
-Контактная информация:\
-&nbsp;&nbsp;&nbsp;&nbsp;zksandrix@gmail.com\
-&nbsp;&nbsp;&nbsp;&nbsp;zmaster@inzone.pro
