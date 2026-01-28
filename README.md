@@ -38,5 +38,6 @@ Contact information:\
 **Ability to compare documents, server statistics, or notes.ini parameters:**<br/>
 ![screenshot](img/img_6.png)
 <br /><br/>
-**Ability to work in Full admin mode, enable dark mode and hide empty document fields:**<br/>
+**Ability to work in Full admin mode, enable dark mode and hide empty document fields.**<br/>
+**All options are automatically saved in the NSFReader.nsf database when the program is closed.:**
 ![screenshot](img/img_7.png)
