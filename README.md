@@ -19,6 +19,24 @@ After that, a new “NSFReader” panel will appear. There are only 2 buttons in
 Contact information:\
 &nbsp;&nbsp;&nbsp;&nbsp;zksandrix@gmail.com\
 &nbsp;&nbsp;&nbsp;&nbsp;zmaster@inzone.pro
-<br />
-<br />
-<br />
+## UI
+**Simple, uncluttered program interface:**<br/>
+![screenshot](img/img_1.png)
+<br /><br/>
+**A wide range of document management options:**<br/>
+![screenshot](img/img_2.png)
+<br /><br/>
+**A wide range of options for working with multiple documents simultaneously:**<br/>
+![screenshot](img/img_3.png)
+<br /><br/>
+**Ability to work with ACLs:**<br/>
+![screenshot](img/img_4.png)
+<br /><br/>
+**Ability to view database information, including changing ReplicaID, In/Out of service, On/Off replica, Clear replica history:**<br/>
+![screenshot](img/img_5.png)
+<br /><br/>
+**Ability to compare documents, server statistics, or notes.ini parameters:**<br/>
+![screenshot](img/img_6.png)
+<br /><br/>
+**Ability to work in Full admin mode, enable dark mode and hide empty document fields:**<br/>
+![screenshot](img/img_7.png)
