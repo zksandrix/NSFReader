@@ -39,5 +39,5 @@ Contact information:\
 ![screenshot](img/img_6.png)
 <br /><br/>
 **Ability to work in Full admin mode, enable dark mode and hide empty document fields.**<br/>
-**All options are automatically saved in the NSFReader.nsf database when the program is closed.:**
+**All options are automatically saved in the NSFReader.nsf database when the program is closed:**<br/>
 ![screenshot](img/img_7.png)
