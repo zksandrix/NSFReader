@@ -12,7 +12,7 @@ The application is in active development, but already has the basic features nee
 * In the security settings, set the flag: "Don't prompt for a password form other Notes-based programs".
 * Restart the HCL Notes client.
 
-After that, a new “NSFReader” panel will appear. There are only 2 buttons in this panel:
+After that, a new “NSFReader” panel will appear in the Notes and Administrator clients. There are only 2 buttons in this panel:
 1. To open a single document.
 2. To open all selected documents.
 
