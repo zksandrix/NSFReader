@@ -38,7 +38,7 @@ Contact information:\
 **Ability to compare documents, server statistics, or notes.ini parameters:**<br/>
 ![screenshot](img/img_6.png)
 <br /><br/>
-Ability to convert time data in semdebug files into a human-readable format.
+Ability to convert time data in semdebug files into a human-readable format.<br/>
 ![screenshot](img/img_8.png)
 <br /><br/>
 **Ability to work in Full admin mode, enable dark mode and hide empty document fields.**<br/>
