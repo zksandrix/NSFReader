@@ -44,3 +44,6 @@ Ability to convert time data in semdebug files into a human-readable format.
 **Ability to work in Full admin mode, enable dark mode and hide empty document fields.**<br/>
 **All options are automatically saved in the NSFReader.nsf database when the program is closed:**<br/>
 ![screenshot](img/img_7.png)
+<br /><br/>
+**Ability to recompile LS and sign all design elements. Designer access is checked even with Full Admin enabled. If a compilation or signing error occurs, a corresponding message is displayed, indicating the type, design element name, and error.<br/>
+![screenshot](img/img_9.png)
