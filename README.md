@@ -22,30 +22,30 @@ Contact information:\
 &nbsp;&nbsp;&nbsp;&nbsp;zmaster@inzone.pro
 ## UI
 **Simple, uncluttered program interface:**<br/>
-[<img src="img/img1.png" width="1000"/>]
+<img src="img/img1.png" width="1000"/>
 <br /><br/>
 **A wide range of document management options:**<br/>
-[<img src="img/img2.png" width="1000"/>]
+<img src="img/img2.png" width="1000"/>
 <br /><br/>
 **A wide range of options for working with multiple documents simultaneously:**<br/>
-[<img src="img/img3.png" width="1000"/>]
+<img src="img/img3.png" width="1000"/>
 <br /><br/>
 **Ability to work with ACLs:**<br/>
-[<img src="img/img4.png" width="1000"/>]
+<img src="img/img4.png" width="1000"/>
 <br /><br/>
 **Ability to view database information, including changing ReplicaID, In/Out of service, On/Off replica, Clear replica history:**<br/>
-[<img src="img/img5.png" width="1000"/>]
+<img src="img/img5.png" width="1000"/>
 <br /><br/>
 **Ability to compare documents, server statistics, or notes.ini parameters.<br/>
 Ability to convert time data in semdebug files into a human-readable format.**<br/>
-[<img src="img/img6.png" width="1000"/>]
-[<img src="img/img6_2.png" width="1000"/>]
+<img src="img/img6.png" width="1000"/>
+<img src="img/img6_2.png" width="1000"/>
 <br /><br/>
 **Ability to work in Full admin mode, enable dark mode and hide empty document fields.**<br/>
 **All options are automatically saved in the NSFReader.nsf database when the program is closed:**<br/>
-[<img src="img/img7.png" width="1000"/>]
+<img src="img/img7.png" width="1000"/>
 <br /><br/>
 **Searching for a database on other servers. Show information about item definition table.**<br/>
 **Ability to recompile LS and sign all design elements. Designer access is checked even with Full Admin enabled.**<br/>
 **If a compilation or signing error occurs, a corresponding message is displayed, indicating the type, design element name, and error.**<br/>
-[<img src="img/img8.png" width="1000"/>]
+<img src="img/img8.png" width="1000"/>
