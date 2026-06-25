@@ -15,38 +15,37 @@ The application is in active development, but already has the basic features nee
 After that, a new “NSFReader” panel will appear in the Notes and Administrator clients. There are only 2 buttons in this panel:
 1. To open a single document.
 2. To open all selected documents.
+3. Local databases can be added using drag and drop or using the File->Open database menu (ctr + o).
 
 Contact information:\
 &nbsp;&nbsp;&nbsp;&nbsp;zksandrix@gmail.com\
 &nbsp;&nbsp;&nbsp;&nbsp;zmaster@inzone.pro
 ## UI
 **Simple, uncluttered program interface:**<br/>
-![screenshot](img/img_1.png)
+[<img src="img/img1.png" width="1000"/>]
 <br /><br/>
 **A wide range of document management options:**<br/>
-![screenshot](img/img_2.png)
+[<img src="img/img2.png" width="1000"/>]
 <br /><br/>
 **A wide range of options for working with multiple documents simultaneously:**<br/>
-![screenshot](img/img_3.png)
+[<img src="img/img3.png" width="1000"/>]
 <br /><br/>
 **Ability to work with ACLs:**<br/>
-![screenshot](img/img_4.png)
+[<img src="img/img4.png" width="1000"/>]
 <br /><br/>
 **Ability to view database information, including changing ReplicaID, In/Out of service, On/Off replica, Clear replica history:**<br/>
-![screenshot](img/img_5.png)
+[<img src="img/img5.png" width="1000"/>]
 <br /><br/>
-**Ability to compare documents, server statistics, or notes.ini parameters:**<br/>
-![screenshot](img/img_6.png)
-<br /><br/>
-Ability to convert time data in semdebug files into a human-readable format.<br/>
-![screenshot](img/img_8.png)
+**Ability to compare documents, server statistics, or notes.ini parameters.<br/>
+Ability to convert time data in semdebug files into a human-readable format.**<br/>
+[<img src="img/img6.png" width="1000"/>]
+[<img src="img/img6_2.png" width="1000"/>]
 <br /><br/>
 **Ability to work in Full admin mode, enable dark mode and hide empty document fields.**<br/>
 **All options are automatically saved in the NSFReader.nsf database when the program is closed:**<br/>
-![screenshot](img/img_7.png)
+[<img src="img/img7.png" width="1000"/>]
 <br /><br/>
-**Ability to recompile LS and sign all design elements. Designer access is checked even with Full Admin enabled. If a compilation or signing error occurs, a corresponding message is displayed, indicating the type, design element name, and error.**<br/>
-![screenshot](img/img_9.png)
-<br /><br/>
-**Show information about item definition table.**<br/>
-![screenshot](img/img_10.png)
+**Searching for a database on other servers. Show information about item definition table.**<br/>
+**Ability to recompile LS and sign all design elements. Designer access is checked even with Full Admin enabled.**<br/>
+**If a compilation or signing error occurs, a corresponding message is displayed, indicating the type, design element name, and error.**<br/>
+[<img src="img/img8.png" width="1000"/>]
