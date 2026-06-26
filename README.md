@@ -49,3 +49,7 @@ Ability to convert time data in semdebug files into a human-readable format.**<b
 **Ability to recompile LS and sign all design elements. Designer access is checked even with Full Admin enabled.**<br/>
 **If a compilation or signing error occurs, a corresponding message is displayed, indicating the type, design element name, and error.**<br/>
 <img src="img/img8.png" width="1000"/>
+<br /><br/>
+**Searching by @Formula\UNID\NoteID\Profile document\Design name.**<br/>
+**If several databases are open at once, it is possible to search in all of them at once.**<br/>
+<img src="img/img9.png" width="1000"/>
