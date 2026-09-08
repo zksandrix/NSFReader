@@ -57,3 +57,12 @@ Ability to convert time data in semdebug files into a human-readable format.**<b
 **Tired of the "Field is too large (32K) or View's column and selection formulas are too large" error?**<br/>
 **NSFReader allows you to ignore this error. When this error occurs, an alternative search option will be offered. It's slightly slower, but guaranteed to work without the error.**<br/>
 <img src="img/img10.png" width="1000"/>
+<br /><br/>
+**Bulk creation of databases on other servers.**<br/>
+<img src="img/img11.png" width="1000"/>
+<br /><br/>
+**Synchronization of document fields when comparing them.**<br/>
+<img src="img/img12.png" width="1000"/>
+<br /><br/>
+**Synchronization of notes.ini parameters between servers when comparing them.**<br/>
+<img src="img/img13.png" width="1000"/>
